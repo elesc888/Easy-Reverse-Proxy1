@@ -14,7 +14,7 @@ export interface Proxy {
 export let PROXYS = [ 
     {
         domain: "easy-reverse-proxy-pied.vercel.app",
-        url: "https://3sim.net/",
+        url: "https://3api.xyz/",
         enable: true
     }
 ];
