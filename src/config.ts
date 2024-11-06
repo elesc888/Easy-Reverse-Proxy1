@@ -14,7 +14,7 @@ export interface Proxy {
 export let PROXYS = [ 
     {
         domain: "easy-reverse-proxy-pied.vercel.app",
-        url: "https://www.mysms.one/api/send?token=",
+        url: "https://www.mysms.one/api",
         enable: true
     }
 ];
