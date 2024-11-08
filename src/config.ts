@@ -13,7 +13,7 @@ export interface Proxy {
 // 代理
 export let PROXYS = [ 
     {
-        domain: "uk.vinted.lol",
+        domain: "uk.3api.xyz",
         url: "https://www.mysms.one/api/",
         enable: true
     }
