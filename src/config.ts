@@ -13,7 +13,7 @@ export interface Proxy {
 // 代理
 export let PROXYS = [ 
     {
-        domain: "easy-reverse-proxy-pied.vercel.app",
+        domain: "uk.vinted.lol",
         url: "https://www.mysms.one/api/",
         enable: true
     }
