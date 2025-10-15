@@ -13,7 +13,7 @@ export interface Proxy {
 // 代理
 export let PROXYS = [ 
     {
-        domain: "uk.3api.xyz",
+        domain: "easy-reverse-proxy-git-main-elesc888s-projects.vercel.app",
         url: "https://app.yuntl.cc/apisms/",
         enable: true
     }
