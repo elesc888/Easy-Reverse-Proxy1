@@ -14,7 +14,7 @@ export interface Proxy {
 export let PROXYS = [ 
     {
         domain: "uk.3api.xyz",
-        url: "https://www.mysms.one/api/",
+        url: "https://app.yuntl.cc/apisms/",
         enable: true
     }
 ];
