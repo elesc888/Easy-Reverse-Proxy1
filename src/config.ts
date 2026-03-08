@@ -13,7 +13,7 @@ export interface Proxy {
 // 代理
 export let PROXYS = [ 
     {
-        domain: "usuk6.3api.xyz",
+        domain: "sms6.yile.app",
         url: "https://app.yuntl.cc/apisms/",
         enable: true
     }
