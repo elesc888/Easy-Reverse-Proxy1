@@ -13,8 +13,8 @@ export interface Proxy {
 // 代理
 export let PROXYS = [ 
     {
-        domain: "usuk6.3api.xyz",
-        url: "https://app.yuntl.cc/apisms/",
+        domain: "83.3api.xyz",
+        url: "https://eim388.top/api/sms/",
         enable: true
     }
 ];
